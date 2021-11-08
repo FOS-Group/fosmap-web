@@ -1,0 +1,10 @@
+{
+  "name": "fosmap-web",
+  "version": "1.0.0",
+  "description": "Web frontend for FOSMap",
+  "main": "app.js",
+  "repository": "https://github.com/FOS-Group/fosmap-web",
+  "author": "FOS Group",
+  "license": "AGPL-3.0-or-later",
+  "private": false
+}
